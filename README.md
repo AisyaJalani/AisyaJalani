@@ -7,7 +7,7 @@
 
 ### ✅ Google Cybersecurity Certificate
 
-### 🛡️💻 My cybersecurity portfolio. Please check it out **here**.
+### 🛡️💻 My cybersecurity portfolio. Please check it out <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main">here</a>.
 
 ### 🎯 **Next goals:**
   - CompTIA A+
